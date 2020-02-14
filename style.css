@@ -1,0 +1,10 @@
+.col--padding {
+    padding: 1rem;
+}
+.col--red {
+    background-color: red;
+}
+
+.col--green {
+    background-color: green;
+}
